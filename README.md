@@ -9,7 +9,7 @@ Implementations such as adding multiple items to the cart, deleting multiple ite
 - Xunit(For automated testing.ie. unit, integration, regression.etc)
 - Automapper(For mapping data between data transfer objects and models)
 
-#Project implementation technique
+# Project implementation technique
 - Database first approach for laying out database schemas
 - MVC(Model-View-Controller) design pattern
 - Clean architecture as architectural pattern
